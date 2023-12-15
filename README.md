@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayushchauhan176@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HLpVtsRijy-Fz-XSmRxgNCxLRgwwPtrd/view?usp=drive_link](https://drive.google.com/file/d/1HLpVtsRijy-Fz-XSmRxgNCxLRgwwPtrd/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1HLpVtsRijy-Fz-XSmRxgNCxLRgwwPtrd/view?usp=drive_link](https://firebasestorage.googleapis.com/v0/b/portfolio-aayush.appspot.com/o/Aayush_Software_Engineer.pdf?alt=media&token=13ea10dd-e328-4ecd-9a99-d4ed7a95985b))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
