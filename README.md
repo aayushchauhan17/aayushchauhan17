@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayushchauhan176@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-aayush.appspot.com/o/Aayush_Software_Engineer.pdf?alt=media&token=13ea10dd-e328-4ecd-9a99-d4ed7a95985b))
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-aayush.appspot.com/o/Aayush_Software_Engineer.pdf?alt=media&token=13ea10dd-e328-4ecd-9a99-d4ed7a95985b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
