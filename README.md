@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aayush.web.app/](https://portfolio-aayush.web.app/)
 
-- 💬 Ask me about **React, Redux, JavaScript, React Native, Node.js.**
+- 💬 Ask me about **React, Redux, JavaScript, React Native, Node.js, Flutter, AWS, Bloc, Java, Python, Html, Css.**
 
 - 📫 How to reach me **aayushchauhan176@gmail.com**
 
